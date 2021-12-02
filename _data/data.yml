@@ -69,6 +69,10 @@ education:
       time: 2004 - 2008
 
 experiences:
+    - role: DevOps Engineer
+      time: 2021 - present
+      company: Allcloud
+
     - role: Linux System Administrator
       time: 2019 - present
       company: SAP Israel / GSR IT
