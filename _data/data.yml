@@ -72,6 +72,13 @@ experiences:
     - role: DevOps Engineer
       time: 2021 - present
       company: Allcloud
+      details: |
+        In-depth knowledge of AWS - Governance (Control Tower, SCPs, Config Rules), Network (Multi-Account Hub-Spoke Architecture, TGW, Inter-region Peering), EC2, Load Balancers, Auto Scaling, Lambda, Route 53, EKS, ECS.
+        <br />Developing IaC modules using Terraform, AWS CDK and Cloudformation.
+        <br />Developing CI/CD pipelines using Jenkins, GitHub Actions and Gitlab-CI.
+        <br />Deploy, maintain, and improve performance over containerized applications in EKS (Helm, ArgoCD, Cluster Auto-scalers).
+        <br />managing production environments.
+
 
     - role: Linux System Administrator
       time: 2019 - present
