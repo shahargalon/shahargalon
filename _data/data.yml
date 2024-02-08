@@ -102,7 +102,7 @@ education:
       university: Online
       time: always - always
       details: |
-        I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as Linux Academy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
+        I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as cloudGuru, Udemy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
 
         My last project was on GCP. I focused on building a CD pipeline into K8s cluster, autoscaling, monitoring using Prometheus and Grafana, and configure Istio for traffic management, security, and observability.
   
