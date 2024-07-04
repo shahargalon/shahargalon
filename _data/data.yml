@@ -1,128 +1,126 @@
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Shahar Galon
-    tagline: DevOps Engineer
-    avatar: profile.png  # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Shahar Galon
+  tagline: DevOps Engineer
+  avatar: profile.png # place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: shahargalon@gmail.com
-    phone: 052-6871719
-    website: shahargn.com # do not add http://
-    linkedin: shahar-galon-17a1bb102/
-    github: shahargalon
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@shahar_galon'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+  # Sidebar links
+  email: shahargalon@gmail.com
+  phone: 052-6871719
+  website: shahargn.com # do not add http://
+  linkedin: shahar-galon-17a1bb102/
+  github: shahargalon
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  twitter: "@shahar_galon"
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Hebrew
-        level: Native
+  languages:
+    - idiom: Hebrew
+      level: Native
 
-      - idiom: English
-        level: Professional
+    - idiom: English
+      level: Professional
 
-    interests:
-      - item: Eating Ice Cream
-        link:
+  interests:
+    - item: Eating Ice Cream
+      link:
 
-      - item: Cycling
-        link:
+    - item: Cycling
+      link:
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Quality-focused professional with a strong sense of responsibility and team spirit. Ability to multi-task under pressure and to meet tight deadlines.
-        -	Broad system view with the ability to drill down to the fine details.
-        -	Fast learning curve and great human skills.
+  title: Career Profile
+  summary: |
+    Quality-focused professional with a strong sense of responsibility and team spirit. Ability to multi-task under pressure and to meet tight deadlines.
+      -	Broad system view with the ability to drill down to the fine details.
+      -	Fast learning curve and great human skills.
 
 experiences:
-    - role: DevOps Engineer
-      time: 2021 - present
-      company: Allcloud
-      details: |
-        In-depth knowledge of AWS - Governance (Control Tower, SCPs, Config Rules), Network (Multi-Account Hub-Spoke Architecture, TGW, Inter-region Peering), EC2, Load Balancers, Auto Scaling, Lambda, Route 53, EKS, ECS.
-        <br />Developing IaC modules using Terraform, AWS CDK and Cloudformation.
-        <br />Developing CI/CD pipelines using Jenkins, GitHub Actions and Gitlab-CI.
-        <br />Deploy, maintain, and improve performance over containerized applications in EKS (Helm, ArgoCD, Cluster Auto-scalers).
-        <br />managing production environments.
+  - role: DevOps Engineer
+    time: 2021 - present
+    company: Allcloud
+    details: |
+      In-depth knowledge of AWS - Governance (Control Tower, SCPs, Config Rules), Network (Multi-Account Hub-Spoke Architecture, TGW, Inter-region Peering), EC2, Load Balancers, Auto Scaling, Lambda, Route 53, EKS, ECS.
+      <br />Developing IaC modules using Terraform, AWS CDK and Cloudformation.
+      <br />Developing CI/CD pipelines using GitHub Actions and Gitlab-CI.
+      <br />Deploy, maintain, and improve performance over containerized applications in EKS (Helm, ArgoCD, Cluster Auto-scalers).
+      <br />managing production environments.
 
+  - role: Linux System Administrator
+    time: 2019 - present
+    company: SAP Israel / GSR IT
+    details: |
+      Troubleshooting developers operating systems and providing support for company employees.
+      <br />Working on RHEL, SUSE and Ubuntu.
+      <br />Writing Bash scripts.
+      <br />Working with Zabbix to monitor errors on live systems and deploy fixes with ldt-agent.
+      <br />Responsible for automating security updates for all the company Linux developers machines.
 
-    - role: Linux System Administrator
-      time: 2019 - present
-      company: SAP Israel / GSR IT
-      details: |
-        Troubleshooting developers operating systems and providing support for company employees.
-        <br />Working on RHEL, SUSE and Ubuntu.
-        <br />Writing Bash scripts.
-        <br />Working with Zabbix to monitor errors on live systems and deploy fixes with ldt-agent.
-        <br />Responsible for automating security updates for all the company Linux developers machines.
+  - role: Shift Manager
+    time: 2018 - 2019
+    company: Max by Leumi (Leumi-card)
+    details: |
+      Prepare reports of the call center performance for management, and advice on how to improve and meet company targets.
+      <br />Handle company wide level issues in collaboration with the relevant departments.
+      <br />Developed and improved daily work plans representatives within each shift.
+      <br />Daily monitoring certain conditions to avoid degraded service.
 
-    - role: Shift Manager
-      time: 2018 - 2019
-      company: Max by Leumi (Leumi-card)
-      details: |
-        Prepare reports of the call center performance for management, and advice on how to improve and meet company targets.
-        <br />Handle company wide level issues in collaboration with the relevant departments.
-        <br />Developed and improved daily work plans representatives within each shift.
-        <br />Daily monitoring certain conditions to avoid degraded service.
+  - role: Financial Services team supervisor at Max by Leumi (Leumi-card)
+    time: 2016 - 2018
+    company: Max by Leumi (Leumi-card)
+    details: |
+      Tier 2 customer support expert team.
+      <br />Knowledge focal point for representatives at specialized Call centers.
+      <br />Working closely with both management and customer service representatives, while identifying and resolve customer issues.
+      <br />Provide training, and supervision throughout the initiation of new representative.
 
-    - role: Financial Services team supervisor at Max by Leumi (Leumi-card)
-      time: 2016 - 2018
-      company: Max by Leumi (Leumi-card)
-      details: |
-        Tier 2 customer support expert team.
-        <br />Knowledge focal point for representatives at specialized Call centers.
-        <br />Working closely with both management and customer service representatives, while identifying and resolve customer issues.
-        <br />Provide training, and supervision throughout the initiation of new representative.
+  - role: Financial Services Representative
+    time: 2012 - 2016
+    company: Max by Leumi (Leumi-card)
+    details: |
+      Tier 1 services representative at a specialized call center.
+      <br />Providing creative solutions to a wide range of card issues as disputes between businesses and customers and handling deal denials.
+      <br />Activation credit cards and providing initial service experience.
 
-    - role: Financial Services Representative
-      time: 2012 - 2016
-      company: Max by Leumi (Leumi-card)
-      details: |
-        Tier 1 services representative at a specialized call center.
-        <br />Providing creative solutions to a wide range of card issues as disputes between businesses and customers and handling deal denials.
-        <br />Activation credit cards and providing initial service experience.
-
-    - role: Warrior in the infantry at Givati division
-      time: 2009 - 2012
-      company: Israel Defense Forces
-      details: |
-        Warrior in the infantry at Givati division. Rifleman 07, and command a squad.
-        <br />Oversee and coordinate actions between troops on the ground.
+  - role: Warrior in the infantry at Givati division
+    time: 2009 - 2012
+    company: Israel Defense Forces
+    details: |
+      Warrior in the infantry at Givati division. Rifleman 07, and command a squad.
+      <br />Oversee and coordinate actions between troops on the ground.
 
 education:
-    - degree:	Self learning
-      university: Online
-      time: always - always
-      details: |
-        I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as cloudGuru, Udemy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
+  - degree: Self learning
+    university: Online
+    time: always - always
+    details: |
+      I'm very passionate about my work, and I always strive to learn more and keep myself up to date. I learn on platforms such as cloudGuru, Udemy, Treehouse <a href="https://teamtreehouse.com/shahargalon">(my profile)</a> etc.
 
-        My last project was on GCP. I focused on building a CD pipeline into K8s cluster, autoscaling, monitoring using Prometheus and Grafana, and configure Istio for traffic management, security, and observability.
-  
-    - degree: Linux server management course (DevOps specialization)
-      university: HackerU
-      time: 2019 - 2020
-      details: |
-        Working with bash and writing scripts in python.
-        <br />Install Linux and Windows OSs, handling process, and varied problems and configurations.
-        <br />Working with DevOps tools like Docker, Kubernetes, Ansible and Jenkins.
-        <br />Course syllabus: <a href="https://www.hackeru.co.il/course/linux">https://www.hackeru.co.il/course/linux</a>
+      My last project was on GCP. I focused on building a CD pipeline into K8s cluster, autoscaling, monitoring using Prometheus and Grafana, and configure Istio for traffic management, security, and observability.
 
-    - degree:	Economy and Business Management Bachelor’s Degree
-      university: The Open University of Israel
-      time: 2014 - 2018
+  - degree: Linux server management course (DevOps specialization)
+    university: HackerU
+    time: 2019 - 2020
+    details: |
+      Working with bash and writing scripts in python.
+      <br />Install Linux and Windows OSs, handling process, and varied problems and configurations.
+      <br />Working with DevOps tools like Docker, Kubernetes, Ansible and Jenkins.
+      <br />Course syllabus: <a href="https://www.hackeru.co.il/course/linux">https://www.hackeru.co.il/course/linux</a>
 
-    - degree: High School diploma -	Psychology and Sociology
-      university: Ora Modi'im High
-      time: 2004 - 2008
+  - degree: Economy and Business Management Bachelor’s Degree
+    university: The Open University of Israel
+    time: 2014 - 2018
 
+  - degree: High School diploma -	Psychology and Sociology
+    university: Ora Modi'im High
+    time: 2004 - 2008
 
 # projects:
 #     title: Projects
@@ -133,41 +131,40 @@ education:
 #         link: "https://github.com/shahargalon/book-store"
 #         tagline: "A simple backend written in Python with a complete CI/CD on GCP, using Docker, Kubernetes, Cloud Build, and GKE. Running tests on every commint (in every Pull Request) and doing Continuous Deployment once the PR is merged to master. Using PostgreSQL on Google Cloud Platform."
 
-
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Docker & Kubernetes 
-        level: 90%
-      
-      - name: AWS
-        level: 80%
+  toolset:
+    - name: Docker & Kubernetes
+      level: 90%
 
-      - name: GCP
-        level: 60%
+    - name: AWS
+      level: 80%
 
-      - name: CI-CD
-        level: 90%
+    - name: GCP
+      level: 60%
 
-      - name: Python
-        level: 80%
+    - name: CI-CD
+      level: 90%
 
-      - name: Bash
-        level: 70%
+    - name: Python
+      level: 80%
 
-      - name: IaC
-        level: 90%
+    - name: Bash
+      level: 70%
 
-      - name: Linux
-        level: 90%
+    - name: IaC
+      level: 90%
 
-      - name: Windows
-        level: 20%
+    - name: Linux
+      level: 90%
 
-      - name: Networking
-        level: 80%
+    - name: Windows
+      level: 20%
 
-      - name: monitoring tools
-        level: 70%  
+    - name: Networking
+      level: 80%
+
+    - name: monitoring tools
+      level: 70%
 footer: >
