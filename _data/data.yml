@@ -165,6 +165,6 @@ skills:
     - name: Networking
       level: 80%
 
-    - name: monitoring tools
-      level: 70%
+    # - name: monitoring tools
+    #   level: 70%
 footer: >
